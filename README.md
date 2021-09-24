@@ -2,6 +2,8 @@
 
 Application will help to manage your bettings and always show your profit.
 
+Google Play: https://play.google.com/store/apps/details?id=com.mk.betting_money_manager
+
 ![01-splash](https://user-images.githubusercontent.com/33370868/134627276-4a3066a4-7aee-466c-99e3-a120b7626de7.jpg)
 ![01-splash1](https://user-images.githubusercontent.com/33370868/134627288-a07cac43-793c-448e-86f0-7b6a5c7c7ffd.jpg)
 ![02-home](https://user-images.githubusercontent.com/33370868/134628254-b248b7ed-f2a0-4958-8976-00539ef451c8.jpg)
