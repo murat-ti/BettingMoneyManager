@@ -2,20 +2,10 @@
 
 Application will help to manage your bettings and always show your profit.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-//TODO
-android/gradle.properties for AAB ucomment
-addmob test
-android gradle delete last line for apk
-version - pubspec.yaml, android/local.properties, android/app/build.gradle
+![01-splash](https://user-images.githubusercontent.com/33370868/134627276-4a3066a4-7aee-466c-99e3-a120b7626de7.jpg)
+![01-splash1](https://user-images.githubusercontent.com/33370868/134627288-a07cac43-793c-448e-86f0-7b6a5c7c7ffd.jpg)
+![02-home1](https://user-images.githubusercontent.com/33370868/134627359-f95c9f6a-3258-4c10-ba35-5203d93d11b1.jpg)
+![03-create](https://user-images.githubusercontent.com/33370868/134627369-4c5436ee-bb30-4c54-8359-a2af27252dca.jpg)
+![03-create1](https://user-images.githubusercontent.com/33370868/134627377-83ea9b6b-5cee-4bb0-b284-681d76837175.jpg)
+![04-settings](https://user-images.githubusercontent.com/33370868/134627385-1b7fae90-7099-4590-b231-6f0e9c1bd2ad.jpg)
+![04-settings1](https://user-images.githubusercontent.com/33370868/134627393-47672294-dc82-468e-9f53-fe0010503dc1.jpg)
