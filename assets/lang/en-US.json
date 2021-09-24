@@ -1,0 +1,87 @@
+{
+  "welcome": "Welcome",
+  "bid": {
+    "cash_flow": "Cash flow",
+    "profit": "Profit",
+    "roi": "ROI",
+    "bid": "Bid",
+    "total": "Total",
+    "payouts": "Payouts",
+    "result": "Result",
+    "result_win": "Winning",
+    "result_lose": "Losing",
+    "date": "Date",
+    "bid_type": "Bid type",
+    "bid_type_pre": "Pre",
+    "bid_type_live": "Live",
+    "bookmaker": "Bookmaker",
+    "sport": "Sport",
+    "event": "Event",
+    "sum_of_bet": "The sum of the bet",
+    "coefficient": "Coefficient"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "rate_an_app": "Rate an app"
+  },
+  "action": {
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "confirmation": "Confirmation",
+    "next": "Next",
+    "search": "Search",
+    "loading": "Loading",
+    "all": "All",
+    "select_other": "Other",
+    "select": "Select",
+    "send": "Send",
+    "save": "Save"
+  },
+  "form_validator": {
+    "required": "Field is required"
+  },
+  "info": {
+    "empty": "No data found",
+    "notFound": "Page not found",
+    "info": "information"
+  },
+  "weekdays": {
+    "mon" : "Mon",
+    "tue" : "Tue",
+    "wed" : "Wed",
+    "thur" : "Thur",
+    "fri" : "Fri",
+    "sat" : "Sat",
+    "sun" : "Sun"
+  },
+  "months": {
+    "jan" : "Jan",
+    "feb" : "Feb",
+    "mar" : "Mar",
+    "apr" : "Apr",
+    "may" : "May",
+    "jun" : "Jun",
+    "jul" : "Jul",
+    "aug" : "Aug",
+    "sep" : "Sep",
+    "oct" : "Oct",
+    "nov" : "Nov",
+    "dec" : "Dec"
+  },
+  "month": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  }
+}
